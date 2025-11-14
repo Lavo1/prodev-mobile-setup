@@ -12,3 +12,4 @@ This project demonstrates the scaffolding process and helps understand the file 
 Open your terminal and move to your parent project folder:
 ```bash
 cd prodev-mobile-setup
+reset-project
